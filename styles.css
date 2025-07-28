@@ -30,6 +30,7 @@ header {
 }
 
 nav {
+  font-style: italic;
   display: inline-flex;
   font-family: "Berkshire Swash", serif;
 }
@@ -40,7 +41,7 @@ nav a {
   display: block;
   text-decoration: none;
   font-weight: 500;
-  color: #9d2d6e
+  color: #9d2d6e;
 }
 
 .logo {
@@ -126,7 +127,6 @@ footer a {
 }
 
 /*  */
-
 
 .text-content {
   flex: 1;
